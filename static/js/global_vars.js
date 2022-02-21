@@ -1,0 +1,1 @@
+proxy = "https://hasocgermanannotation.el.r.appspot.com"
